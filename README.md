@@ -1,4 +1,4 @@
-# INTRODUCTION
+## INTRODUCTION
 This project analyzes the 📊 data analytics job market using SQL to uncover 💰 top-paying jobs, 🚀 in-demand skills, and 🧠 high-value skill sets. It demonstrates strong skills in 🔍 data exploration, joins, and aggregations to solve real-world business problems.
 
 SQL quesries check them out here: [project_sql folder](/project_sql/)
